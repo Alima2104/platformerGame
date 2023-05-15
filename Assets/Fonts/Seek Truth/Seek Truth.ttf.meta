@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 2f9f93f40b7ef4e9bbd44c9989ddb0e0
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Seek Truth
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7601b168a97e84d44bd349e6204ea889, type: 3}
+  customCharacters: 
+  fontRenderingMode: 2
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
